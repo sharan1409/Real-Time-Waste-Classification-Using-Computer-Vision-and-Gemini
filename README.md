@@ -141,19 +141,13 @@ The detected waste category is shown on the dashboard.
 ### Main Dashboard
 
 ```markdown
-![Dashboard](images/dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 ```
 
-### Waste Detection
+### Waste Detection & Classification Result
 
 ```markdown
-![Detection](images/detection.png)
-```
-
-### Classification Result
-
-```markdown
-![Classification](images/result.png)
+![Detection](screenshots/classification.png)
 ```
 
 ---
@@ -164,12 +158,6 @@ Add a GIF:
 
 ```markdown
 ![Demo](images/demo.gif)
-```
-
-Or link a video:
-
-```markdown
-[Watch Demo Video](YOUR_VIDEO_LINK)
 ```
 
 ---

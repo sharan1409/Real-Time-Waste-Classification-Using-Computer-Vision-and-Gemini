@@ -157,7 +157,7 @@ The detected waste category is shown on the dashboard.
 Add a GIF:
 
 ```markdown
-![Demo](images/demo.gif)
+![Demo](Real-Time-Waste-Classification-Using-Computer-Vision-and-Gemini.mp4)
 ```
 
 ---

@@ -231,21 +231,3 @@ python main.py
 
 ---
 
-## 👨‍💻 Author
-
-**Teicho**
-
-B.E. Mechatronics Engineering
-
-Interests:
-- Computer Vision
-- Artificial Intelligence
-- Industrial Automation
-- Robotics
-- Smart Manufacturing
-
----
-
-## 📜 License
-
-This project is intended for educational, research, and prototype development purposes.
